@@ -1,1 +1,5 @@
-# uvv_pdc_2_cc2m
+# Programação de Computadores
+
+## Sobre
+
+Repositório para projetos do segundo período da matéria de Programação de Computadores.
